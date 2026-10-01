@@ -12,24 +12,6 @@
 
 ---
 
-## ✨ Demo
-
-<div align="center">
-
-<img
-src="example/assets/swipe_actions.gif"
-alt="Flutter Swipe Actions Demo"
-width="200"
-/>
-
-<br><br>
-
-<strong>Swipe right for Edit & Archive • Swipe left for Delete</strong>
-
-</div>
-
----
-
 ## 🚀 Features
 
 * ✅ Swipe right for **Edit**
@@ -423,6 +405,22 @@ flutter_swipe_actions/
 ├── pubspec.yaml
 └── README.md
 ```
+
+## ✨ Demo
+
+<div align="center">
+
+<img
+src="example/assets/swipe_actions.gif"
+alt="Flutter Swipe Actions Demo"
+width="200"
+/>
+
+<br><br>
+
+<strong>Swipe right for Edit & Archive • Swipe left for Delete</strong>
+
+</div>
 
 ---
 
