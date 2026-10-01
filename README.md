@@ -2,15 +2,6 @@
 
 # Flutter Swipe Actions
 
-### Modern, reusable and customizable swipe actions for Flutter list items.
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-3.41.9+-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-3.11.5+-0175C2?style=for-the-badge&logo=dart" alt="Dart">
-  <img src="https://img.shields.io/badge/Material-3-6750A4?style=for-the-badge" alt="Material 3">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
 <p>
   A lightweight Flutter package that adds clean and modern swipe actions
   such as <strong>Edit</strong>, <strong>Archive</strong>, and <strong>Delete</strong>
@@ -26,7 +17,7 @@
 <div align="center">
 
 <img
-src="assets/demo.gif"
+src="example/assets/swipe_actions.gif"
 alt="Flutter Swipe Actions Demo"
 width="340"
 />
@@ -493,34 +484,6 @@ For Chrome:
 ```bash
 flutter run -d chrome
 ```
-
----
-
-# 🎥 Demo GIF
-
-The package documentation uses the following GIF:
-
-```text
-assets/demo.gif
-```
-
-The README loads it using:
-
-```html
-<img
-  src="assets/demo.gif"
-  alt="Flutter Swipe Actions Demo"
-  width="340"
-/>
-```
-
-To replace the demo, simply overwrite:
-
-```text
-assets/demo.gif
-```
-
-with your updated GIF while keeping the same filename.
 
 ---
 
